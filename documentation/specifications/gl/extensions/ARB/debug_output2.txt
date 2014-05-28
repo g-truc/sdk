@@ -1,0 +1,7 @@
+There is no extension named GL_ARB_debug_group.
+
+A specification using that name was posted in error during the initial
+release of OpenGL 4.3. However, this was only an internal development
+document and should not have been posted to the public registry. All
+functionality related to debugging was folded into the extension
+GL_KHR_debug_output.
